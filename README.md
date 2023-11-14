@@ -1,4 +1,4 @@
-<h1 align="center">Ranked games calculator:</h1>
+<h1 align="center">Hero Level Classifier:</h1>
 
 ## 📖 About the project
 In this project, I created an interactive program through an easy and intuitive menu. The menu is composed of conditionals and loops, with basic information validation. After each input, the program automatically updates the information. <br>
